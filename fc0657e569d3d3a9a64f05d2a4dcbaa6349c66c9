@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f02bea97_48cfac28",
+        "filename": "Ztest1/src/com/test/hello.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1012464
+      },
+      "writtenOn": "2017-10-02T16:10:28Z",
+      "side": 1,
+      "message": "This looks good.",
+      "revId": "fc0657e569d3d3a9a64f05d2a4dcbaa6349c66c9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
