@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "245950d2_075e90f0",
+        "filename": "Ztest1/src/com/test/hello.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012464
+      },
+      "writtenOn": "2017-10-03T06:57:37Z",
+      "side": 1,
+      "message": "anvahjdj",
+      "range": {
+        "startLine": 6,
+        "startChar": 4,
+        "endLine": 6,
+        "endChar": 23
+      },
+      "revId": "454df17f2ca905a35ed830482dd5e61eaa245817",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
